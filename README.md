@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am Kiran Kumar, also known as GPT, a passionate 
 
 ### **Education & Certifications**
 - **Bachelor’s in Electronics and Communication Engineering (ECE)**  
-  JNTUK University (2019 - 2023)  
+  Aff.JNTUK University
   In-depth knowledge of technical concepts combined with a passion for data science.
 
 - **Data Science Bootcamp**  
