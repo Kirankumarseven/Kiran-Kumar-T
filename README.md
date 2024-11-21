@@ -1,5 +1,5 @@
-# gptKirankumar
-## Kiran Kumar (GPT) – Data Analyst & Aspiring Data Scientist
+# Kirankumar T
+## Kiran Kumar – Data Analyst & Aspiring Data Scientist
 
 Welcome to my GitHub profile! I am Kiran Kumar, a passionate and detail-oriented Data Analyst with a robust foundation in data science. My journey began with a Bachelor's degree in Electronics and Communication Engineering, and over time, I’ve honed my skills in various data analysis tools, machine learning algorithms, and data visualization techniques. I am driven by the ability to transform complex data into actionable insights and solve real-world business problems.
 
