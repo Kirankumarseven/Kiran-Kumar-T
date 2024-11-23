@@ -63,3 +63,7 @@ I am actively working on expanding my knowledge in the following areas:
 - **Business Acumen & Data Storytelling:** Improving my ability to translate complex technical findings into clear and actionable business recommendations.
 
 I’m always open to learning, collaborating, and contributing to exciting data science projects. Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to connect, discuss potential collaborations, or seek advice on data analysis techniques.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kiran-kumar-6a168979/)
+- 🖤 [GitHub](https://gist.github.com/Kirankumarseven)
+- 🖤 [GitHub](https://github.com/Kirankumarseven)
